@@ -45,11 +45,7 @@ end
 
 
 
-spawn(function()
-if game:IsLoaded() then wait(1)
-    game.StarterGui:SetCore("SendNotification", {["Title"] = "AutoBroly Privado", ["Text"] = "Privado De Paga"})
-end
-end)
+
 
 
 

@@ -1,5 +1,4 @@
 print("hola")
-game["Loaded"]:Wait()
 local Players = game:GetService("Players")
 local LP = Players["LocalPlayer"]
 while not LP do
